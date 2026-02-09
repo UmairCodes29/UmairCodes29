@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Umair Mansuri
 
-🚀 **MERN Stack Developer | Frontend-Focused | MCA Student** <br>
+🚀 **MERN Stack Developer | Frontend-Focused | MCA Student** <br><br>
 **My Portfolio:- [https://umaircodes29.github.io/react_portfolio/](https://umaircodes29.github.io/react_portfolio/)**
 
 Welcome to my first GitHub repository!  
