@@ -56,6 +56,6 @@ I enjoy working on real-world projects and continuously improving my skills in m
 
 ## 📫 Connect With Me
 
-- GitHub: [https://github.com/your-username](https://github.com/UmairCodes29)  
+- GitHub: [https://github.com/UmairCodes29](https://github.com/UmairCodes29)  
 - LinkedIn: *(www.linkedin.com/in/umair-mansuri-2085a230b)*  
 
